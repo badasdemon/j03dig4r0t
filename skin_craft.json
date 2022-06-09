@@ -1,0 +1,790 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"b195f8dd8ded45fe847ad89ed1d016da",
+      "backup_ads_intertitial":"b195f8dd8ded45fe847ad89ed1d016da",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Skin":
+  [
+   {
+          "id":1,
+          "name_skin":"Fox Girl",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl1.png",
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl1.png"
+          
+          
+        },
+        {
+          "id":2,
+          "name_skin":"Fox Girl",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl2.png",
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl2.png"
+          
+        },
+        {
+          "id":3,
+          "name_skin":"Fox Girl",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl3.png",
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl3.png"
+          
+          
+        },
+        {
+          "id":4,
+          "name_skin":"Fox Girl",
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl4.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl4.png"
+          
+        },
+        {
+          "id":5,
+          "name_skin":"Fox Girl",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl5.png",
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl5.png"
+          
+          
+        },
+        {
+          "id":6,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl6.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl6.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":7,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl7.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl7.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":8,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl8.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl8.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":9,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl9.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl9.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":10,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl10.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl10.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":11,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl11.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl11.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":12,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl12.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl12.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":13,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl13.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl13.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":14,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl14.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl14.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":15,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl15.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl15.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":16,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl16.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl16.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":17,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl17.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl17.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":18,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl18.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl18.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":19,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl19.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl19.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":20,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl20.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl20.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":21,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl21.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl21.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":22,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl22.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl22.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":23,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl23.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl23.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":24,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl24.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl24.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":25,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl25.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl25.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":26,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl26.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl26.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":27,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl27.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl27.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":28,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl28.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl28.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":29,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl29.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl29.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":30,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl30.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl30.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":31,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl31.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl31.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":32,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl32.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl32.png",
+          "name_skin":"Fox Girl"
+        },
+        { 
+          "id":33,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl33.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl33.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":34,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl34.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl34.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":35,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl35.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl35.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":36,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl36.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl36.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":37,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl37.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl37.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":38,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl38.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl38.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":39,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl39.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl39.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":40,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl40.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl40.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":41,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl41.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl41.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":42,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl42.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl42.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":43,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl43.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl43.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":44,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl44.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl44.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":45,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl45.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl45.png",
+          "name_skin":"Fox Girl"
+        },
+        { 
+          "id":46,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl46.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl46.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":47,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl47.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl47.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":48,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl48.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl48.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":49,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl49.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl49.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":50,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl50.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl50.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":51,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl51.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl51.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":52,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl52.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl52.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":53,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl53.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl53.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":54,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl54.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl54.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":55,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl55.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl55.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":56,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl56.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl56.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":57,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl57.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl57.png",
+         "name_skin":"Fox Girl"
+        },
+        {
+          "id":58,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl58.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl58.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":59,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl59.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl59.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":60,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl60.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl60.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":61,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl61.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl61.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":62,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl62.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl62.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":63,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl63.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl63.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":64,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl64.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl64.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":65,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl65.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl65.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":66,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl66.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl66.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":67,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl67.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl67.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":68,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl68.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl68.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":69,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl69.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl69.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":70,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl70.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl70.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":71,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl71.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl71.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":72,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl72.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl72.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":73,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl73.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl73.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":74,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl74.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl74.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":75,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl75.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl75.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":76,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl76.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl76.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":77,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl77.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl77.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":78,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl78.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl78.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":79,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl79.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl79.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":80,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl80.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl80.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":81,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl81.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl81.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":82,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl82.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl82.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":83,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl83.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl83.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":84,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl84.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl84.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":85,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl85.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl85.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":86,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl86.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl86.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":87,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl87.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl87.png",
+          "name_skin":"Fox Girl"
+        },
+        {
+          "id":88,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl88.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl88.png",
+         "name_skin":"Fox Girl"
+        },
+        {
+          "id":89,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl89.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl89.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":90,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl90.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl90.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":91,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl91.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl91.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":92,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl92.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl92.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":93,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl93.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl93.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":94,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl94.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl94.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":95,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl95.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl95.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":96,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl96.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl96.png",
+         "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":97,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl97.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl97.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":98,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl98.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl98.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":99,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl99.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl99.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":100,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl100.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl100.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":101,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl101.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl101.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":102,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl102.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl102.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":103,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl103.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl103.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":104,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl104.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl104.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":105,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl105.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl105.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":106,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl106.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl106.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":107,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl107.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl107.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":108,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl108.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl108.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":109,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl109.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl109.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":110,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl110.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl110.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":111,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl111.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl111.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":112,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl112.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl112.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":113,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl113.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl113.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":114,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl114.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl114.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":115,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl115.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl115.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":116,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl116.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl116.png",
+          "name_skin":"Fox Girl"
+        }
+
+        ,
+        {
+          "id":117,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl117.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl117.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":118,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl118.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl118.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":119,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl119.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl119.png",
+          "name_skin":"Fox Girl"
+        }
+        ,
+        {
+          "id":120,
+          "view_skin":"https://aweu.net/2022/joedigarot/FoxGirl/thumb/FoxGirl120.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FoxGirl/png/FoxGirl120.png",
+          "name_skin":"Fox Girl"
+        }
+       
+
+  ]
+}
+

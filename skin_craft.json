@@ -1,0 +1,548 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"b195f8dd8ded45fe847ad89ed1d016da",
+      "backup_ads_intertitial":"b195f8dd8ded45fe847ad89ed1d016da",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Skin":
+  [
+   {
+          "id":1,
+          "name_skin":"Anya Forger",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger1.png",
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger1.png"
+          
+          
+        },
+        {
+          "id":2,
+          "name_skin":"Anya Forger",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger2.png",
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger2.png"
+          
+        },
+        {
+          "id":3,
+          "name_skin":"Anya Forger",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger3.png",
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger3.png"
+          
+          
+        },
+        {
+          "id":4,
+          "name_skin":"Anya Forger",
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger4.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger4.png"
+          
+        },
+        {
+          "id":5,
+          "name_skin":"Anya Forger",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger5.png",
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger5.png"
+          
+          
+        },
+        {
+          "id":6,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger6.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger6.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":7,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger7.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger7.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":8,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger8.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger8.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":9,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger9.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger9.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":10,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger10.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger10.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":11,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger11.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger11.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":12,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger12.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger12.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":13,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger13.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger13.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":14,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger14.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger14.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":15,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger15.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger15.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":16,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger16.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger16.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":17,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger17.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger17.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":18,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger18.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger18.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":19,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger19.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger19.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":20,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger20.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger20.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":21,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger21.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger21.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":22,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger22.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger22.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":23,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger23.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger23.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":24,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger24.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger24.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":25,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger25.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger25.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":26,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger26.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger26.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":27,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger27.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger27.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":28,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger28.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger28.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":29,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger29.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger29.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":30,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger30.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger30.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":31,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger31.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger31.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":32,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger32.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger32.png",
+          "name_skin":"Anya Forger"
+        },
+        { 
+          "id":33,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger33.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger33.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":34,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger34.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger34.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":35,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger35.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger35.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":36,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger36.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger36.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":37,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger37.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger37.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":38,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger38.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger38.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":39,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger39.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger39.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":40,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger40.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger40.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":41,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger41.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger41.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":42,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger42.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger42.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":43,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger43.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger43.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":44,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger44.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger44.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":45,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger45.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger45.png",
+          "name_skin":"Anya Forger"
+        },
+        { 
+          "id":46,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger46.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger46.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":47,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger47.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger47.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":48,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger48.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger48.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":49,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger49.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger49.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":50,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger50.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger50.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":51,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger51.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger51.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":52,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger52.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger52.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":53,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger53.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger53.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":54,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger54.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger54.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":55,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger55.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger55.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":56,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger56.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger56.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":57,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger57.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger57.png",
+         "name_skin":"Anya Forger"
+        },
+        {
+          "id":58,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger58.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger58.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":59,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger59.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger59.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":60,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger60.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger60.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":61,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger61.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger61.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":62,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger62.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger62.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":63,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger63.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger63.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":64,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger64.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger64.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":65,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger65.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger65.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":66,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger66.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger66.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":67,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger67.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger67.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":68,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger68.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger68.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":69,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger69.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger69.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":70,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger70.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger70.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":71,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger71.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger71.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":72,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger72.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger72.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":73,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger73.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger73.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":74,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger74.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger74.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":75,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger75.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger75.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":76,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger76.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger76.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":77,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger77.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger77.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":78,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger78.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger78.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":79,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger79.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger79.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":80,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger80.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger80.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":81,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger81.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger81.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":82,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger82.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger82.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":83,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger83.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger83.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":84,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger84.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger84.png",
+          "name_skin":"Anya Forger"
+        },
+        {
+          "id":85,
+          "view_skin":"https://aweu.net/2022/joedigarot/AnyaForger/thumb/AnyaForger85.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/AnyaForger/png/AnyaForger85.png",
+          "name_skin":"Anya Forger"
+        }
+       
+
+  ]
+}
+

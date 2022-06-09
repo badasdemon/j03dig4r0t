@@ -1,0 +1,848 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"b195f8dd8ded45fe847ad89ed1d016da",
+      "backup_ads_intertitial":"b195f8dd8ded45fe847ad89ed1d016da",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Skin":
+  [
+   {
+          "id":1,
+          "name_skin":"Fire Force",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce1.png",
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce1.png"
+          
+          
+        },
+        {
+          "id":2,
+          "name_skin":"Fire Force",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce2.png",
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce2.png"
+          
+        },
+        {
+          "id":3,
+          "name_skin":"Fire Force",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce3.png",
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce3.png"
+          
+          
+        },
+        {
+          "id":4,
+          "name_skin":"Fire Force",
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce4.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce4.png"
+          
+        },
+        {
+          "id":5,
+          "name_skin":"Fire Force",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce5.png",
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce5.png"
+          
+          
+        },
+        {
+          "id":6,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce6.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce6.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":7,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce7.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce7.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":8,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce8.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce8.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":9,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce9.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce9.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":10,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce10.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce10.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":11,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce11.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce11.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":12,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce12.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce12.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":13,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce13.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce13.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":14,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce14.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce14.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":15,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce15.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce15.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":16,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce16.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce16.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":17,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce17.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce17.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":18,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce18.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce18.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":19,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce19.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce19.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":20,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce20.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce20.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":21,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce21.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce21.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":22,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce22.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce22.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":23,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce23.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce23.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":24,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce24.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce24.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":25,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce25.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce25.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":26,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce26.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce26.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":27,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce27.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce27.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":28,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce28.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce28.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":29,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce29.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce29.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":30,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce30.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce30.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":31,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce31.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce31.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":32,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce32.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce32.png",
+          "name_skin":"Fire Force"
+        },
+        { 
+          "id":33,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce33.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce33.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":34,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce34.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce34.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":35,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce35.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce35.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":36,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce36.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce36.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":37,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce37.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce37.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":38,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce38.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce38.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":39,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce39.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce39.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":40,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce40.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce40.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":41,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce41.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce41.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":42,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce42.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce42.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":43,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce43.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce43.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":44,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce44.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce44.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":45,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce45.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce45.png",
+          "name_skin":"Fire Force"
+        },
+        { 
+          "id":46,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce46.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce46.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":47,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce47.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce47.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":48,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce48.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce48.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":49,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce49.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce49.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":50,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce50.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce50.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":51,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce51.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce51.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":52,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce52.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce52.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":53,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce53.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce53.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":54,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce54.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce54.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":55,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce55.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce55.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":56,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce56.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce56.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":57,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce57.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce57.png",
+         "name_skin":"Fire Force"
+        },
+        {
+          "id":58,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce58.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce58.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":59,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce59.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce59.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":60,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce60.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce60.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":61,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce61.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce61.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":62,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce62.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce62.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":63,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce63.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce63.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":64,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce64.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce64.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":65,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce65.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce65.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":66,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce66.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce66.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":67,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce67.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce67.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":68,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce68.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce68.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":69,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce69.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce69.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":70,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce70.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce70.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":71,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce71.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce71.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":72,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce72.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce72.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":73,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce73.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce73.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":74,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce74.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce74.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":75,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce75.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce75.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":76,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce76.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce76.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":77,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce77.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce77.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":78,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce78.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce78.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":79,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce79.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce79.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":80,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce80.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce80.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":81,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce81.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce81.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":82,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce82.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce82.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":83,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce83.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce83.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":84,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce84.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce84.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":85,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce85.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce85.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":86,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce86.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce86.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":87,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce87.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce87.png",
+          "name_skin":"Fire Force"
+        },
+        {
+          "id":88,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce88.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce88.png",
+         "name_skin":"Fire Force"
+        },
+        {
+          "id":89,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce89.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce89.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":90,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce90.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce90.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":91,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce91.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce91.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":92,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce92.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce92.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":93,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce93.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce93.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":94,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce94.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce94.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":95,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce95.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce95.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":96,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce96.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce96.png",
+         "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":97,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce97.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce97.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":98,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce98.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce98.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":99,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce99.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce99.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":100,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce100.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce100.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":101,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce101.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce101.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":102,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce102.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce102.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":103,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce103.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce103.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":104,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce104.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce104.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":105,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce105.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce105.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":106,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce106.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce106.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":107,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce107.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce107.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":108,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce108.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce108.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":109,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce109.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce109.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":110,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce110.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce110.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":111,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce111.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce111.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":112,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce112.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce112.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":113,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce113.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce113.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":114,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce114.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce114.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":115,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce115.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce115.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":116,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce116.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce116.png",
+          "name_skin":"Fire Force"
+        }
+
+        ,
+        {
+          "id":117,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce117.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce117.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":118,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce118.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce118.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":119,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce119.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce119.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":120,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce120.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce120.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":121,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce121.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce121.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":122,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce122.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce122.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":123,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce123.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce123.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":124,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce124.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce124.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":125,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce125.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce125.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":126,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce126.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce126.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":127,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce127.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce127.png",
+          "name_skin":"Fire Force"
+        }
+        ,
+        {
+          "id":128,
+          "view_skin":"https://aweu.net/2022/joedigarot/FireForce/thumb/FireForce128.png",
+          "skin_url":"https://aweu.net/2022/joedigarot/FireForce/png/FireForce128.png",
+          "name_skin":"Fire Force"
+        }
+        
+     
+       
+
+  ]
+}
+
